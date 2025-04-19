@@ -38,6 +38,7 @@
   <li><a href="https://github.com/CaioHerminio/GothSummoner">Project 5 - Goth Summoner</a></li>
   <li><a href="https://github.com/CaioHerminio/TarotMachine">Project 6 - Tarot Machine</a></li>
   <li><a href="https://github.com/CaioHerminio/Succonomicon">Project 7 - Succonomicon</a></li>
+  <li><a href="https://github.com/CaioHerminio/eldritchrunes">Project 8 - Eldritch Runes</a></li>
   </ul>
 
 <h1>✨ Feel Free to Fork the Journey</h1>
