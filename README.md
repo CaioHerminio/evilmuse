@@ -12,7 +12,7 @@
 <p>My task was to create a simple program to practice generating text files. The program guides the user through a series of questions and answers to create a complete character. In the end, a text file is generated containing the character that was created.</p>
 
 <h3>⚙️ Action</h3>
-<p>I designed a ritual mechanic where players input a string of runes. A function compares it to the true name of power. If the spell is incorrect, we handle the error.</p>
+<p>I created Maliga, the sadistic yet good-humored muse of trauma. She guides the user through this journey using my favorite method for creating characters I know will be objectively interesting, a method based on trauma.</p>
 
 <h3>🧠 Result</h3>
 <p>The result is a suspenseful and interactive mini-game that blends programming logic with horror storytelling. <strong>Eldritch Runes</strong> turns basic error handling into a dramatic experience, showing how even fundamental concepts can be wrapped in thematic, memorable ways.</p>
