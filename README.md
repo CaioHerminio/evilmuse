@@ -15,15 +15,15 @@
 <p>I created Maliga, the sadistic yet good-humored muse of trauma. She guides the user through this journey using my favorite method for creating characters I know will be objectively interesting, a method based on trauma.</p>
 
 <h3>🧠 Result</h3>
-<p>The result is a suspenseful and interactive mini-game that blends programming logic with horror storytelling. <strong>Eldritch Runes</strong> turns basic error handling into a dramatic experience, showing how even fundamental concepts can be wrapped in thematic, memorable ways.</p>
+<p>The result was a very simple and fun program, where the user feels like they're creating characters with the muse’s help, not alone. This almost-dialogue helps get the thoughts flowing, and the process moves from simpler questions to the full development of the character’s arc. In just 5 to 10 minutes, the user can create not just a character sheet listing stats, but a sheet that captures the soul of the character, with all the foundations ready for plot and world development. I don’t know if I’ve found the cure for creative block, but I’m sure this will help many character creators.</p>
 
 <h2>🌐 Multi-Language Learning Philosophy</h2>
 <p>Just like the first project, this one is being developed in Python, JavaScript, and C++. I’m studying these three languages simultaneously to avoid becoming too attached to the quirks of just one. This method helps me grasp the core logic of programming — which is universal across languages — rather than memorizing syntax. By rewriting the same project in multiple languages, I reinforce my understanding of structures, variables, functions, and flow — while also appreciating the expressive power of each language.</p>
 
-<h2>🧪 Project Scope: Eldritch Runes</h2>
+<h2>🧪 Project Scope: The Muse of Traumas</h2>
 <p>Core concepts covered (in addition to concepts from previous projects):</p>
 <ul>
-  <li>Errors and exceptions</li>
+  <li>File creation</li>
 </ul>
 
 <h1>🃏 About the Code Fool's Journey</h1>
